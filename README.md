@@ -22,20 +22,25 @@ To report and analyze % utilization by employee, branch, and division across any
 
 ## Requirements
 
-Track % utilization by employee, branch, division, and project code.
-Provide filtering by date range, branch, division, employee type.
+- Track % utilization by employee, branch, division, and project code.
+- Provide filtering by date range, branch, division, employee type.
+
 Executive Summary page:
 
 - Overall % utilization (calendar year)
 - Monthly utilization trends
 - Comparison across branches and divisions
-- SQLite
-  Division Manager view:
+
+Division Manager View:
+
 - Hours & utilization by project code and employee type
 - Breakdown of hours by billable time, PTO, non-billable project time, bench time, sales support
-  Branch Manager view:
+
+Branch Manager view:
+
 - Hours & utilization by employee
-  Drilldowns into employee-level and project-level details
+
+- Drilldowns into employee-level and project-level details
 
 ## Tools and Technologies
 
