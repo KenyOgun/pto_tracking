@@ -40,7 +40,7 @@ Branch Manager view:
 
 - Hours & utilization by employee
 
-- Drilldowns into employee-level and project-level details
+Drilldowns into employee-level and project-level details
 
 ## Tools and Technologies
 
